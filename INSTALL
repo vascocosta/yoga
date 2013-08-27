@@ -1,0 +1,4 @@
+Install instructions:
+
+1. Uncompress yoga-X.Y.tar.gz into the server htdocs folder.
+2. Run ./install.php

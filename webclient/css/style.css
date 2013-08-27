@@ -1,0 +1,176 @@
+a:link {
+    text-decoration: none;
+    color: #666666;
+}
+a:visited {
+    text-decoration: none;
+    color: #666666;
+}
+a:active {
+    text-decoration: none;
+    color: #666666;
+}
+a:hover {
+    text-decoration: underline; 
+    color: #666666;
+}
+body {
+    background-color: #eeeeee;
+    top: 30px; margin: 30px;
+}
+h1 {
+    text-align: center;
+    color: #aaaaaa;
+    font-family: Verdana;
+    font-size: 25pt;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    color: #aaaaaa;
+    font-family: Verdana;
+    font-size: 22pt;
+    font-weight: normal;
+}
+h3 {
+    text-align: center;
+    color: #aaaaaa;
+    font-family: Verdana;
+    font-size: 15pt;
+    font-weight: normal;
+}
+select {
+    width: 100px;
+}
+table.groomer {
+    border-collapse: collapse;
+    border: 1px solid #777777;
+}
+
+td.groomer {
+    background-color: #aaaaaa;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+td.on {
+    background-color: #00cc00;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+td.off {
+    background-color: #cc0000;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+}
+table.view {
+    border-collapse: collapse;
+    border: 1px solid #777777;
+}
+
+td.view {
+    background-color: #bbbbbb;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+    padding: 10;
+}
+th.view {
+    background-color: #999999;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 10;
+}
+table.summary {
+    border-collapse: collapse;
+    border: 1px solid #777777;
+}
+
+td.summary {
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #777777;
+    font-family: Verdana;
+    font-size: 7pt;
+    font-weight: bold;
+    padding: 5;
+}
+th.summary {
+    background-color: #999999;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 8pt;
+    font-weight: bold;
+    padding: 5;
+}
+table.login {
+    border-collapse: collapse;
+    border: 0px solid #777777;
+}
+
+td.login {
+    background-color: #bbbbbb;
+    border: 0px solid #777777;
+    text-align: left;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 10pt;
+    font-weight: bold;
+    padding: 10;
+}
+th.login {
+    background-color: #999999;
+    border: 0px solid #777777;
+    text-align: center;
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 12pt;
+    font-weight: bold;
+    padding: 10;
+}
+table.menu {
+    border-collapse: collapse;
+    border: 1px solid #777777;
+}
+
+td.menu {
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #666666;
+    font-family: Verdana;
+    font-size: 12pt;
+    font-weight: normal;
+    padding: 4;
+}
+th.menu {
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    text-align: center;
+    color: #666666;
+    font-family: Verdana;
+    font-size: 12pt;
+    font-weight: normal;
+    padding: 4;
+}
